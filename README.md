@@ -288,7 +288,7 @@
 		</tr>
 		<tr>
 			<td>
-				<code>git reset --hard HEAD~1</code> and then
+				<code>git reset --hard HEAD~1</code><br>and then<br>
 				<code>git push origin master --force</code>
 			</td>
 			<td>Delete the latest commit, and return to the one previous (one before HEAD)</td>
